@@ -3,12 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=3&color=000000)
 <br />
 <h4>🥇 Backend 개발자 김용휘입니다.</h4>
-<p>
-- Java, Springboot, JPA 기반 API 서버 개발을 주력으로 하고 있으며 AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.<br />
-- React 기반 사내 백오피스 구현 및 스타트업에서의 개발 프로세스를 총괄한 경험이 있습니다.<br />
-- 문서화는 생활화되어 있으며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.<br />
-- 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.<br />
-</p>
+
++ Java, Springboot, JPA 기반 API 서버 개발을 주력으로 하고 있으며 AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.<br />
++ React 기반 사내 백오피스 구현 및 스타트업에서의 개발 프로세스를 총괄한 경험이 있습니다.<br />
++ 문서화는 생활화되어 있으며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.<br />
++ 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.<br />
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 
