@@ -11,53 +11,53 @@
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
-<div style="display: flex; flex-direction: row">
-  <span>
-    <h4>♠️ 기술스택</h3>
-      <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" />
-      </div>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
-      </div>
-      <div>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white" />
-        <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white" />
-      </div>
-      <div>
-        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" />
-      </div>
-  </span>
-  <span>
-    <h4> 💙 관심기술</h4>
-    <div>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
-      <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white" />
-      <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" />
-      <img src="https://img.shields.io/badge/ElasticSearch-005571?style=plastic&logo=ElasticSearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/LogStash-005571?style=plastic&logo=LogStash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white" />
-    </div>
-  </span>
-</div>
+
+<span>
+  <h4>♠️ 기술스택</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" />
+  </div>
+</span>
+<br />
+<span>
+  <h4> 💙 관심기술</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/ElasticSearch-005571?style=plastic&logo=ElasticSearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/LogStash-005571?style=plastic&logo=LogStash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white" />
+  </div>
+</span>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 
