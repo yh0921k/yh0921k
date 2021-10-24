@@ -1,8 +1,80 @@
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyh0921k&count_bg=%23C471E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문&edge_flat=false" />
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=3&color=000000)
+<br />
+<h4>🥇 Backend 개발자 김용휘입니다.</h4>
+<p>
+- Java, Springboot, JPA 기반 API 서버 개발을 주력으로 하고 있으며 AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.<br />
+- React 기반 사내 백오피스 구현 및 스타트업에서의 개발 프로세스를 총괄한 경험이 있습니다.<br />
+- 문서화는 생활화되어 있으며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.<br />
+- 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.<br />
+</p>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
+<div style="display: flex; flex-direction: row">
+  <span>
+    <h4>♠️ 기술스택</h3>
+      <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" />
+      </div>
+  </span>
+  <span>
+    <h4> 💙 관심기술</h4>
+    <div>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
+      <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white" />
+      <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" />
+      <img src="https://img.shields.io/badge/ElasticSearch-005571?style=plastic&logo=ElasticSearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/LogStash-005571?style=plastic&logo=LogStash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white" />
+    </div>
+  </span>
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yh0921k&count_private=true&theme=dracula" align="left" style="width: 43%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh0921k&layout=compact&theme=dracula&langs_count=4" align="left" style="width: 43%" />
+
+![footer](https://capsule-render.vercel.app/api?type=rect&height=3&color=000000)
+
+
+<!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyh0921k&count_bg=%23C471E3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 [![Yonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh0921k&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh0921k&layout=compact&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+-->
 <!-- ### Hi there 👋 -->
 
 <!--
