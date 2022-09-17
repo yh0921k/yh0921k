@@ -1,13 +1,16 @@
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyh0921k&count_bg=%23C471E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문&edge_flat=false" />
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=3&color=000000)
 <br />
 <h4>🥇 Backend 개발자 김용휘입니다.</h4>
 
-+ Java, Springboot, JPA 기반 API 서버 개발을 주력으로 하고 있으며 AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.<br />
-+ React 기반 사내 백오피스 구현 및 스타트업에서의 개발 프로세스를 총괄한 경험이 있습니다.<br />
-+ 문서화는 생활화되어 있으며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.<br />
-+ 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.<br />
++ Java, Springboot, JPA 기반 백엔드 어플리케이션 개발을 주력으로 하고 있습니다.
++ TypeScript, NestJS, TypeORM 기반 백엔드 어플리케이션 실무 경험이 있습니다.
++ AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.
++ 문서화를 중요하게 생각하며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.
++ 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.
++ 최근 TDD, DDD, Clean Code, Refactoring 등에 관심이 많습니다.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 
@@ -16,11 +19,17 @@
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-20336B?style=plastic&logo=JPA&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=NestJS&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeORM-262627?style=plastic&logo=TypeORM&logoColor=white" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white" />
@@ -41,17 +50,20 @@
   <div>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white" />
+    </div>
+  <div>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=CircleCI&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
-    <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/ElasticSearch-005571?style=plastic&logo=ElasticSearch&logoColor=white" />
     <img src="https://img.shields.io/badge/LogStash-005571?style=plastic&logo=LogStash&logoColor=white" />
     <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white" />
