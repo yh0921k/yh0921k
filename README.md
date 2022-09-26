@@ -1,21 +1,26 @@
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyh0921k&count_bg=%23C471E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문&edge_flat=false" />
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=3&color=000000)
-<br />
 <h4>🥇 Backend 개발자 김용휘입니다.</h4>
 
-+ Java, Springboot, JPA 기반 백엔드 어플리케이션 개발을 주력으로 하고 있습니다.
-+ TypeScript, NestJS, TypeORM 기반 백엔드 어플리케이션 실무 경험이 있습니다.
-+ AWS 및 On-premise 환경에서의 인프라를 운영할 수 있습니다.
-+ 문서화를 중요하게 생각하며, 외부 스터디 및 사이드 프로젝트를 꾸준히 진행하고 있습니다.
-+ 필요한 기술 스택은 시일이 걸리더라도 도입하여 사용하며, 새로운 기술을 학습하는 것을 좋아합니다.
-+ 최근 TDD, DDD, Clean Code, Refactoring 등에 관심이 많습니다.
+```java
+class Me {
+  public void introduce() {
+    System.out.println("Java, Springboot, JPA 기반 백엔드 어플리케이션 개발이 주력입니다.");
+    System.out.println("TypeScript, NestJS, TypeORM 기반 백엔드 어플리케이션 실무 경험이 있습니다.");
+    System.out.println("AWS 및 On-premise 환경에서의 인프라를 구축 및 운영할 수 있습니다.");
+    System.out.println("Notion을 이용한 문서화에 일가견이 있으며, 문서화는 개발자의 기본 소양이라고 생각합니다.");
+    System.out.println("새로운 것에 대해 학습하는 것을 즐기며, 필요한 기술이라면 시일이 걸리더라도 도입합니다.");
+    System.out.println("최근 TDD, DDD, MSA, Clean Code, Refactoring 등에 관심이 많습니다.")
+  }
+}
+
+```
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 
 <span>
-  <h4>♠️ 기술스택</h3>
+  <h4>🌱️ Skills</h4>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
@@ -46,7 +51,7 @@
 </span>
 <br />
 <span>
-  <h4> 💙 관심기술</h4>
+  <h4> 🌱 Interests</h4>
   <div>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white" />
