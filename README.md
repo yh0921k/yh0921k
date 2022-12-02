@@ -25,6 +25,7 @@ class Me {
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
     <img src="https://img.shields.io/badge/JPA-20336B?style=plastic&logo=JPA&logoColor=white" />
+    <img src="https://img.shields.io/badge/QueryDSL-FF61F6?style=plastic&logo=JPA&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
@@ -41,6 +42,7 @@ class Me {
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=CentOS&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
